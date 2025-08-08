@@ -1,0 +1,16 @@
+typography:
+  fonts:
+    - family: Sofia Sans Condensed
+      source: google
+    - family: Ubuntu Condensed
+      source: google
+  base: Ubuntu Condensed
+  headings: Sofia Sans Condensed
+
+color:
+  background: navy
+  foreground: white
+  primary: orange
+  secondary: grey
+  light: yellow
+  info: darkviolet
