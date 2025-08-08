@@ -11,7 +11,7 @@ title-slide-attributes:
 format: 
   revealjs:
     theme:
-      - brand
+      - moon
     transition: convex
     mouse-wheel: true
     smaller: true
